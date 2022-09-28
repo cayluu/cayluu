@@ -1,0 +1,4 @@
+- Hi, I’m @cayluu
+- I'm a brazilian 19yo man
+- I’m currently learning Python
+- idk what else to put in here...
